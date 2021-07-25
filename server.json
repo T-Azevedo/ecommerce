@@ -1,0 +1,20 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "photo": "https://cdn.iset.io/assets/54224/produtos/1639/9562689299-guitarra-epiphone-les-paul-standard-60s-ebony-1.jpg",
+            "name": "Epiphone Les Paul",
+            "description": "Descrição do produto",
+            "price": 3000
+        },
+
+        {
+            "id": 2,
+            "photo": "http://d3ugyf2ht6aenh.cloudfront.net/stores/001/224/671/products/fender_1017197711-19fc7f0cd1a896265e16022552875339-640-0.jpg",
+            "name": "Fender Strato",
+            "description": "Descrição do produto",
+            "price": 7000
+        }
+
+    ]
+}
